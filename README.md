@@ -5,9 +5,9 @@ Passionate about building production-grade AI applications and teaching core Dat
 ---
 
 ### 🔬 What I Do
-- 🛠️ **AI Engineering:** Building production-grade LLM applications, RAG pipelines, and ML models.
-- 📚 **Education:** Simplifying complex DS/AI/ML concepts through documentation and tutorials.
-- 🚀 **Focus Areas:** Deep Learning, NLP, Computer Vision, MLOps.
+- **AI Engineering:** Building production-grade LLM applications, RAG pipelines, and ML models.
+- **Education:** Simplifying complex DS/AI/ML concepts through documentation and tutorials.
+- **Focus Areas:** Deep Learning, NLP, Computer Vision, MLOps.
 
 ---
 
@@ -21,10 +21,14 @@ Passionate about building production-grade AI applications and teaching core Dat
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 ![Zaman's GitHub stats](https://github-readme-stats.vercel.app/api?username=kazmizaman865&show_icons=true&theme=dark)
 
+##  Get in Touch
+
+- **Email:** sayedzamanalishahs@gmail.com
+- **LinkedIn:** (https://www.linkedin.com/in/sayed-zaman-ali-shah-917a1a222/)
 
 
 
