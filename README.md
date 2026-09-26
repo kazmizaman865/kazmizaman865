@@ -5,7 +5,7 @@ Passionate about building production-grade AI applications and teaching core Dat
 ---
 
 ### 🔬 What I Do
-- **AI Engineering:** Building production-grade LLM applications, RAG pipelines, and ML models.
+- **AI Engineering:** Building production-grade LLM applications, RAG pipelines, and ML models , Agentic AI.
 - **Education:** Simplifying complex DS/AI/ML concepts through documentation and tutorials.
 - **Focus Areas:** Deep Learning, NLP, Computer Vision, MLOps.
 
