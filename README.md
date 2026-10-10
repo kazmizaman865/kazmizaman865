@@ -1,35 +1,39 @@
-# Hi there, I'm Zaman Ali 👋
+# Zaman Ali
 
-Passionate about building production-grade AI applications and teaching core Data Science, AI, and Machine Learning concepts.
+### AI engineering · Machine learning · Data science
 
----
+I build AI applications and share practical explanations of data science, AI, and machine learning. My interests include LLM applications, retrieval-augmented generation (RAG), and agentic AI.
 
-### 🔬 What I Do
-- **AI Engineering:** Building production-grade LLM applications, RAG pipelines, and ML models , Agentic AI.
-- **Education:** Simplifying complex DS/AI/ML concepts through documentation and tutorials.
-- **Focus Areas:** Deep Learning, NLP, Computer Vision, MLOps.
+[Explore my repositories](https://github.com/kazmizaman865?tab=repositories) · [LinkedIn](https://www.linkedin.com/in/sayed-zaman-ali-shah-917a1a222/) · [Email me](mailto:sayedzamanalishahs@gmail.com)
 
----
+## What I work on
 
-### 🛠 Tech Stack
+- **AI applications:** LLM integrations, RAG pipelines, and machine learning models.
+- **Machine learning:** Deep learning, natural language processing, and computer vision.
+- **MLOps:** Tools and workflows for developing and deploying models.
+- **Education:** Documentation and tutorials that make technical concepts easier to understand.
 
-**Languages & Frameworks:**
-`Python` `PyTorch` `TensorFlow` `Scikit-Learn` `FastAPI` `Pandas` `NumPy`
+## Technical toolkit
 
-**Tools & Infrastructure:**
-`Git` `Docker` `MLflow` `Jupyter` `PostgreSQL`
+| Area | Technologies |
+| --- | --- |
+| Language & data | Python, Pandas, NumPy |
+| Machine learning | PyTorch, TensorFlow, Scikit-learn |
+| APIs & storage | FastAPI, PostgreSQL |
+| Development & MLOps | Git, Docker, MLflow, Jupyter |
 
----
+## Portfolio projects
 
-###  GitHub Stats
+These runnable portfolio demos include setup instructions, sample data, and automated tests. They demonstrate technical workflows; they are not deployed products or client work.
 
-![Zaman's GitHub stats](https://github-readme-stats.vercel.app/api?username=kazmizaman865&show_icons=true&theme=dark)
+| Project | What you can explore | Stack |
+| --- | --- | --- |
+| [Grounded Document Assistant](projects/document-assistant/) | Ask questions through an API and receive relevant document passages with source citations. An extractive retrieval baseline for RAG. | Python, FastAPI, Scikit-learn |
+| [Customer Churn Classifier](projects/churn-classifier/) | Train a reproducible model on synthetic data, inspect held-out metrics, and reload it for predictions. | Python, NumPy, Scikit-learn |
+| [Feature Drift Monitor](projects/drift-monitor/) | Compare feature distributions, generate JSON reports, and trigger an automation alert on a simulated shift. | Python, NumPy, MLOps |
 
-##  Get in Touch
+Start with a project's README for commands, design choices, and limitations. Each project runs locally without paid APIs or credentials.
 
-- **Email:** sayedzamanalishahs@gmail.com
-- **LinkedIn:** (https://www.linkedin.com/in/sayed-zaman-ali-shah-917a1a222/)
+## Connect with me
 
-
-
-
+For opportunities or collaboration related to AI engineering, machine learning, and data science, contact me through [LinkedIn](https://www.linkedin.com/in/sayed-zaman-ali-shah-917a1a222/) or [email](mailto:sayedzamanalishahs@gmail.com).
